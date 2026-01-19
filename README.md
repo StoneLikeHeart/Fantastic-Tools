@@ -1,1 +1,1 @@
-Make some fatastic tool for life.
+Make some fantastic tool for life.
